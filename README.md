@@ -1,4 +1,4 @@
-<!-- ![Image](SS.png) -->
+![Image](SS.png)
 
 # Cyzo - VS Code Theme
 
