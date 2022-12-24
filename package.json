@@ -28,7 +28,7 @@
     "dangerous theme"
   ],
   "engines": {
-    "vscode": "^1.72.0"
+    "vscode": "^1.8.0"
   },
   "categories": [
     "Themes"
