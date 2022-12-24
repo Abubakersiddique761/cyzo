@@ -1,0 +1,21 @@
+{
+  "name": "cyzo",
+  "displayName": "Cyzo",
+  "description": "Cyzo",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyzo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyzo-color-theme.json"
+      }
+    ]
+  }
+}
