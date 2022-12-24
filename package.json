@@ -1,8 +1,32 @@
 {
   "name": "cyzo",
   "displayName": "Cyzo",
-  "description": "Cyzo",
+  "description": "Cyzo is an dark and orange red theme",
   "version": "0.0.1",
+  "publisher": "AbubakerSiddique",
+  "icon": "P.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abubakersiddique761/cyzo"
+  },
+  "keywords": [
+    "theme",
+    "cyzo",
+    "orange theme",
+    "black theme",
+    "blue theme",
+    "latest theme",
+    "popular theme",
+    "skyblue",
+    "orange",
+    "dark orange",
+    "dark blue",
+    "dark theme",
+    "Abubaker Siddique",
+    "dark blue theme",
+    "beautiful theme",
+    "dangerous theme"
+  ],
   "engines": {
     "vscode": "^1.72.0"
   },
